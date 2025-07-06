@@ -43,20 +43,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-FAHIM-AHAMME&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-FAHIM-AHAMME&theme=radical" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MD-FAHIM-AHAMMED&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MD-FAHIM-AHAMMED&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-FAHIM-AHAMME&layout=compact&theme=radical" alt="Most Used Languages"/>
-</p>
-![snake gif](https://raw.githubusercontent.com/MD-FAHIM-AHAMME/MD-FAHIM-AHAMME/output/github-contribution-grid-snake.svg)
 
----
 
 ### 📫 Connect With Me
 
@@ -73,10 +67,18 @@
 
 ### 🐍 Contribution Graph Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MD-FAHIM-AHAMME/MD-FAHIM-AHAMME/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
+<br clear="both">
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MD-FAHIM-AHAMMED/MD-FAHIM-AHAMMED/tree/main/.github/workflows/snake.yml" alt="Snake animation" />
+
+###
+
+###
 ---
 
 ### ⚡ Fun Fact
