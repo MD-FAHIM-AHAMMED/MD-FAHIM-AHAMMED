@@ -76,9 +76,6 @@
 
 <img src="https://raw.githubusercontent.com/MD-FAHIM-AHAMMED/MD-FAHIM-AHAMMED/tree/main/.github/workflows/snake.yml" alt="Snake animation" />
 
-###
-
-###
 ---
 
 ### ⚡ Fun Fact
