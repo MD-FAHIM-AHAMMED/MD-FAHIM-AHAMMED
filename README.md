@@ -1,24 +1,16 @@
 <h1 align="center">Hi 👋, I'm _MD_FA_HIM_</h1>
+<h3 align="center">💻 CST Student | 🌱 Self-Learner | 🚀 Developer | 📷 Photographer | 🎯  Game Developer</h3>
 
 <p align="center">
-  <b>CST Student | Self-Learner | 💻 Developer | 📷 Photographer | 🎯 Game Developer</b>
-</p>
-
-<p align="center">
-  <a href="mailto:mdfahimahammed347@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/fahim0201">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Assalamu+Alaikum!;Welcome+to+My+GitHub+Profile;Coding+My+Dreams+Into+Reality..." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
+### 🧠 About Me
 
 - 🎓 Currently studying at **Rangpur Polytechnic Institute**, Department of CST
-- 🌱 Learning **HTML, CSS**
+- 🌱 Learning **HTML, CSS, C **
 - 🚀 Planning to build my own IT Company and work internationally
 - 📸 I love capturing natural beauty
 - 💻 Focused on **Game Development** 
@@ -26,60 +18,116 @@
 
 ---
 
-### 🚀 Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,vscode,linux" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MD-FAHIM-AHAMMED&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-FAHIM-AHAMMED&theme=radical" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-FAHIM-AHAMMED&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MD-FAHIM-AHAMMED&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-FAHIM-AHAMMED&layout=compact&theme=radical" />
+</p>
 
+---
 
-
-### 📫 Connect With Me
+### 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://facebook.com/fahim0201" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:mdfahimahammed347@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://www.facebook.com/fahim0102" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:mdfahimahammed347@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🐍 Contribution Graph Snake
 
+<p align="center">
+  <img src="https://github.com/MD-FAHIM-AHAMMED/MD-FAHIM-AHAMMEDraw/output/github-contribution-grid-snake.svg" />
+</p>
 
-<br clear="both">
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MD-FAHIM-AHAMMED/MD-FAHIM-AHAMMED/tree/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ---
 
 ### ⚡ Fun Fact
 
+> I believe **discipline, dua and dedication** can change your destiny.
 - ⚽ Football passion, 🦋 Butterfly lover
 - 💡 “Don’t leave things for later if you can do them now… There may not be time.”
 - 🌏 Dream Countries: Korea, China, Japan
+---
+
+<!--  -->
+
+---
+
+### 📁 Featured Projects
+
+> 
+### 📈 My GitHub Activity
+
+<!-- GitHub Activity Graph (animated contribution map) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-FAHIM-AHAMMED&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🧰 Tech I'm Currently Learning
+
+-  C
+- 
+- 💬 ChatGPT API Integration
+-
+- 
+
+---
+
+### 💡 Future Goals
+
+- Hiddent
+
+---
+
+### 👑 Inspirational Quote
+
+> _"If you want to go fast, go alone. If you want to go far, go together."_ – African Proverb
+
+---
+
+### 🧩 Fun Tech Facts About Me
+
+- 🧠 I dream in code!
+- 🖼️ I design my UI on paper first
+- 🎧 I can't code without Lofi music
+- 📸 I take cloud & nature photos on weekends!
+
+---
+
+<p align="center">
+  <a href="https://facebook.com/fahim0102"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:mdfahimahammed347@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-fahim-918779307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍💙 🤍
+</p>
+<p align="center">
+  <b>Still coding... still dreaming... still alive 🧠💡</b>
+</p>
+> A developer's life has a rhythm—**Code 💻 Learn 📚 Dream 🌌 Repeat 🔁**
+
+---
